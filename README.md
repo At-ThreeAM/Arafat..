@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Arafat!!</h1>
 <h3 align="center">A passionate software enginner of Bangladesh.</h3>
-<img align="right" alt="coding" width="400" src="https://thumbs.gfycat.com/AngelicConcreteHypsilophodon-size_restricted.gif">
+<img align="right" alt="coding" width="300" src="https://thumbs.gfycat.com/AngelicConcreteHypsilophodon-size_restricted.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=at-threeam&label=Profile%20views&color=0e75b6&style=flat" alt="at-threeam" /> </p>
 
