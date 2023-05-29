@@ -1,4 +1,4 @@
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)]
+[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Arafat!!</h1>
 <h3 align="center">A passionate software enginner of Bangladesh.</h3>
 <img align="right" alt="coding" width="300" src="https://thumbs.gfycat.com/AngelicConcreteHypsilophodon-size_restricted.gif">
